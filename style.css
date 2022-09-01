@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    border: 4px solid lightgray;
+    display: flex;
+}
+
+
+.rect{
+    border: 2px solid lightgray;
+    height:33px;
+    margin: 24px;
+}
+
+.rect-wrap{
+    width: 50%;
+}
+
+.rect-large{
+    width: 50%;
+    height: 148px; 
+
+}
